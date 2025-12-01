@@ -51,7 +51,7 @@ Potential extensions to integrate predictive and advanced operational analysis:
 
 ![[Image of Case Management Dashboard]()
 
-![[Image of Attorney Performance Dashboard]() 
+![Image of Attorney Dashaboard]() 
 ---
 
 ## 👩‍💻 Developed By
