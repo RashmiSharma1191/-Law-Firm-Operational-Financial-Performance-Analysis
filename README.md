@@ -1,4 +1,5 @@
 # Law-Firm-Operational-Financial-Performance-Analysis
+---
 
 ## 📌 Project Description
 This project involved a full-scale analysis of a law firm's operations using five linked data sources (Attorney Details, Time Logs, Billing, Case Data, Client Data). 
