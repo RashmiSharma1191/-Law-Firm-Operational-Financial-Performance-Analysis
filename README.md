@@ -57,6 +57,5 @@ Potential extensions to integrate predictive and advanced operational analysis:
 ## 👩‍💻 Developed By
 Rashmi Sharma
 Data Analyst | SEO Executive | Digital Marketing
-📧 [Mail ID](mailto:rashusharma007@gmail.com)
-
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
+- 📧 [Mail ID](mailto:rashusharma007@gmail.com)
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
