@@ -49,7 +49,7 @@ Potential extensions to integrate predictive and advanced operational analysis:
 
 ![Image of Financial Performance Dashboard](https://github.com/RashmiSharma1191/-Law-Firm-Operational-Financial-Performance-Analysis/blob/main/Law%20firm%20-%20Financial%20performance%20dashbaord.png)
 
-![[Image of Case Management Dashboard](https://github.com/RashmiSharma1191/-Law-Firm-Operational-Financial-Performance-Analysis/blob/main/Law%20firm%20-%20Case%20Management%20Dashboard.png)
+![Image of Case Management Dashboard](https://github.com/RashmiSharma1191/-Law-Firm-Operational-Financial-Performance-Analysis/blob/main/Law%20firm%20-%20Case%20Management%20Dashboard.png)
 
 ![Image of Attorney Dashaboard](https://github.com/RashmiSharma1191/-Law-Firm-Operational-Financial-Performance-Analysis/blob/main/Law%20firm%20-%20Attorney%20Productivity%20Dashboard.png) 
 ---
