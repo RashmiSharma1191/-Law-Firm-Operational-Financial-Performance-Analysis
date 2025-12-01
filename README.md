@@ -1,12 +1,11 @@
 # Law-Firm-Operational-Financial-Performance-Analysis
 
-## 📌 Project Description
-This project involved a full-scale analysis of a law firm's operations using five linked data sources (Attorney Details, Time Logs, Billing, Case Data, Client Data). 
-Three interactive dashboards were developed to provide a 360° view of firm health across Attorney Productivity, Financial Performance, and Case Management, driving 
-data-driven decisions on resource allocation, profitability, and collections.
+## 📌 **Project Description**
+This project involved a full-scale analysis of a law firm's operations using five linked data sources (Attorney Details, Time Logs, Billing, Case Data, Client Data). Three interactive dashboards were developed to provide a 360° view of firm health across Attorney Productivity, Financial Performance, and Case Management, driving data-driven decisions on resource allocation, profitability, and collections.
+
 ---
 
-## 🎯 Business Objectives
+## 🎯 **Business Objectives**
 1. Optimize Productivity: Analyze billable vs. non-billable time and track attorney utilization for efficient resource allocation.
 2. Maximize Profitability: Identify high-value clients and profitable Case Types while monitoring revenue realization and collections.
 3. Improve Operations: Track case duration, client volume, and case closing rates to streamline legal workflows.
